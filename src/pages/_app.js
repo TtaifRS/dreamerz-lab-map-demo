@@ -1,5 +1,6 @@
-import Footer from '@/layouts/Footer'
 import Navbar from '@/layouts/navBar'
+import Footer from '@/layouts/Footer'
+
 import '@/styles/globals.css'
 
 
