@@ -1,5 +1,5 @@
 import Navbar from '@/layouts/navBar'
-import Footer from '@/layouts/Footer'
+import Footer from '@/layouts/footer'
 
 import '@/styles/globals.css'
 
